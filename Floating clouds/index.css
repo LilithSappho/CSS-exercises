@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    font-family: fantasy;
+}
+#cloud-pic {
+    width: 100px;
+    float: left;
+    margin: 2px 3px;
+}
+#cloud-sidebar {
+    background: rgb(255, 255, 219);
+    float: right;
+    width:35%;
+    margin: 2px 5px;
+    
+    
+}
